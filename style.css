@@ -1024,7 +1024,7 @@ h1.site-title {
 /* line 93, sass/layout/_header.scss */
 .main-navigation .menu-item { display: inline-block; padding: 0 10px; }
 /* line 97, sass/layout/_header.scss */
-.main-navigation .menu-item a { padding: 10px 0; border-bottom: 3px solid transparent; color: white; font-family: "Novecento Sans", "Open Sans", sans-serif; font-size: 12px; font-size: 0.75em; text-transform: uppercase; font-weight: 600; -webkit-transition: .3s ease; transition: .3s ease; }
+.main-navigation .menu-item a { padding: 10px 0; border-bottom: 3px solid transparent; color: black; font-family: "Novecento Sans", "Open Sans", sans-serif; font-size: 12px; font-size: 0.75em; text-transform: uppercase; font-weight: 600; -webkit-transition: .3s ease; transition: .3s ease; }
 /* line 109, sass/layout/_header.scss */
 .main-navigation .menu-item.current-menu-item a, .main-navigation .menu-item:hover a { border-bottom: 3px solid #ac8074; }
 
